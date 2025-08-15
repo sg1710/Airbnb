@@ -1,0 +1,56 @@
+🏠 Airbnb Data Analysis – Cleaned Dataset
+📌 Overview
+
+This repository contains a cleaned version of an Airbnb dataset (Airbnb_Cleaned.csv) prepared for analysis and modeling.
+It removes inconsistencies, handles missing values, and standardizes formats so you can focus on data exploration, visualization, and prediction tasks.
+
+🎯 Objectives
+
+Provide a ready-to-use Airbnb dataset for data analysis and machine learning.
+
+Explore patterns in pricing, availability, and popularity.
+
+Enable predictive modeling for business growth potential.
+
+📂 Structure
+📁 Airbnb-Cleaned
+│
+├── Airbnb_Cleaned.csv       # Clean dataset
+├── analysis.ipynb           # (Optional) Jupyter Notebook for exploration
+├── requirements.txt         # Dependencies
+└── README.md                # Documentation
+
+⚙️ Tools & Libraries
+
+Python – pandas, numpy, matplotlib, seaborn, plotly
+
+Jupyter Notebook – for interactive data exploration
+
+scikit-learn – for predictive modeling
+
+🚀 Usage
+
+Clone this repository:
+
+git clone https://github.com/username/Airbnb-Cleaned.git
+
+
+Install dependencies:
+
+pip install -r requirements.txt
+
+
+Load the dataset in Python:
+
+import pandas as pd
+df = pd.read_csv("Airbnb_Cleaned.csv")
+
+📈 Potential Analyses
+
+Price vs. location trends
+
+Occupancy patterns across seasons
+
+Factors influencing listing popularity
+
+Predictive modeling for revenue or bookings
