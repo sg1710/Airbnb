@@ -8,11 +8,9 @@ By analyzing real Airbnb dataset attributes such as location, reviews, availabil
 
 📂 Dataset
 
-Source: Airbnb public dataset (CSV format)
+Source: Airbnb dataset (CSV format)
 
 Key Columns: id, name, host_id, neighbourhood_group, neighbourhood, latitude, longitude, room_type, price, minimum_nights, number_of_reviews, last_review, reviews_per_month, availability_365
-
-Size: ~XX,XXX rows and XX columns (after cleaning)
 
 🛠️ Tools & Libraries Used
 
